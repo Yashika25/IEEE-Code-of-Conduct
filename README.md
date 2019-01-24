@@ -35,4 +35,6 @@ Changes to the IEEE Code of Ethics will be made only after the following conditi
 
 ### Further IEEE terms and conditions can be found [here](https://www.ieee.org/membership/products/ieee-email-policy.html)
 
+### In case of any violation within campus premises by any community member, it can directly be reported at [ieeeasetbranch@gmail.com]
+
 ### Procedure for filing a complaint and the conditions about un-fulfillment of the code of conduct can be found [here](https://www.ieee.org/about/ethics/complaint-procedures.html)
